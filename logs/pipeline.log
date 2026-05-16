@@ -1,0 +1,99 @@
+2026-05-16 17:35:24,783 - INFO - Iniciando pipeline
+2026-05-16 17:35:24,784 - INFO - Extraindo selic
+2026-05-16 17:35:25,381 - INFO - Transformando selic
+2026-05-16 17:35:25,389 - INFO - Extraindo ipca
+2026-05-16 17:35:26,584 - INFO - Transformando ipca
+2026-05-16 17:35:26,587 - INFO - Extraindo dolar
+2026-05-16 17:35:27,045 - INFO - Transformando dolar
+2026-05-16 17:35:27,051 - INFO - Carregando dados no banco
+2026-05-16 17:35:27,388 - INFO - Pipeline finalizado com sucesso
+2026-05-16 17:38:13,585 - INFO - Iniciando pipeline
+2026-05-16 17:38:13,586 - INFO - Extraindo selic
+2026-05-16 17:38:14,437 - INFO - Transformando selic
+2026-05-16 17:38:14,446 - INFO - Extraindo ipca
+2026-05-16 17:38:15,092 - INFO - Transformando ipca
+2026-05-16 17:38:15,094 - INFO - Extraindo dolar
+2026-05-16 17:38:15,913 - INFO - Transformando dolar
+2026-05-16 17:38:15,924 - INFO - Carregando dados no banco
+2026-05-16 17:38:16,041 - INFO - Pipeline finalizado com sucesso
+2026-05-16 17:38:31,388 - INFO - Iniciando pipeline
+2026-05-16 17:38:31,388 - INFO - Extraindo selic
+2026-05-16 17:38:32,261 - INFO - Transformando selic
+2026-05-16 17:38:32,270 - INFO - Extraindo ipca
+2026-05-16 17:38:32,928 - INFO - Transformando ipca
+2026-05-16 17:38:32,930 - INFO - Extraindo dolar
+2026-05-16 17:38:33,736 - INFO - Transformando dolar
+2026-05-16 17:38:33,742 - INFO - Carregando dados no banco
+2026-05-16 17:38:33,836 - INFO - Pipeline finalizado com sucesso
+2026-05-16 17:45:33,068 - INFO - Iniciando pipeline
+2026-05-16 17:45:33,068 - INFO - Extraindo selic
+2026-05-16 17:45:33,656 - INFO - Transformando selic
+2026-05-16 17:45:33,664 - INFO - Extraindo ipca
+2026-05-16 17:45:34,089 - INFO - Transformando ipca
+2026-05-16 17:45:34,091 - INFO - Extraindo dolar
+2026-05-16 17:45:54,322 - INFO - Transformando dolar
+2026-05-16 17:45:54,328 - INFO - Carregando dados no banco
+2026-05-16 17:45:54,423 - INFO - Pipeline finalizado com sucesso
+2026-05-16 17:46:54,423 - INFO - Iniciando pipeline
+2026-05-16 17:46:54,423 - INFO - Extraindo selic
+2026-05-16 17:47:17,297 - INFO - Transformando selic
+2026-05-16 17:47:17,303 - INFO - Extraindo ipca
+2026-05-16 17:47:17,711 - INFO - Transformando ipca
+2026-05-16 17:47:17,713 - INFO - Extraindo dolar
+2026-05-16 17:47:18,142 - INFO - Transformando dolar
+2026-05-16 17:47:18,148 - INFO - Carregando dados no banco
+2026-05-16 17:47:18,196 - INFO - Pipeline finalizado com sucesso
+2026-05-16 17:48:18,196 - INFO - Iniciando pipeline
+2026-05-16 17:48:18,197 - INFO - Extraindo selic
+2026-05-16 17:48:18,695 - INFO - Transformando selic
+2026-05-16 17:48:18,701 - INFO - Extraindo ipca
+2026-05-16 17:48:19,105 - INFO - Transformando ipca
+2026-05-16 17:48:19,107 - INFO - Extraindo dolar
+2026-05-16 17:48:19,587 - INFO - Transformando dolar
+2026-05-16 17:48:19,593 - INFO - Carregando dados no banco
+2026-05-16 17:48:19,640 - INFO - Pipeline finalizado com sucesso
+2026-05-16 17:49:19,641 - INFO - Iniciando pipeline
+2026-05-16 17:49:19,641 - INFO - Extraindo selic
+2026-05-16 17:49:20,557 - INFO - Transformando selic
+2026-05-16 17:49:20,565 - INFO - Extraindo ipca
+2026-05-16 17:49:21,241 - INFO - Transformando ipca
+2026-05-16 17:49:21,244 - INFO - Extraindo dolar
+2026-05-16 17:49:22,088 - INFO - Transformando dolar
+2026-05-16 17:49:22,095 - INFO - Carregando dados no banco
+2026-05-16 17:49:22,177 - INFO - Pipeline finalizado com sucesso
+2026-05-16 17:50:22,178 - INFO - Iniciando pipeline
+2026-05-16 17:50:22,178 - INFO - Extraindo selic
+2026-05-16 17:50:22,721 - INFO - Transformando selic
+2026-05-16 17:50:22,727 - INFO - Extraindo ipca
+2026-05-16 17:50:23,137 - INFO - Transformando ipca
+2026-05-16 17:50:23,139 - INFO - Extraindo dolar
+2026-05-16 17:50:23,591 - INFO - Transformando dolar
+2026-05-16 17:50:23,599 - INFO - Carregando dados no banco
+2026-05-16 17:50:23,646 - INFO - Pipeline finalizado com sucesso
+2026-05-16 17:51:23,647 - INFO - Iniciando pipeline
+2026-05-16 17:51:23,647 - INFO - Extraindo selic
+2026-05-16 17:51:24,114 - INFO - Transformando selic
+2026-05-16 17:51:24,121 - INFO - Extraindo ipca
+2026-05-16 17:51:25,080 - INFO - Transformando ipca
+2026-05-16 17:51:25,082 - INFO - Extraindo dolar
+2026-05-16 17:51:25,500 - INFO - Transformando dolar
+2026-05-16 17:51:25,506 - INFO - Carregando dados no banco
+2026-05-16 17:51:25,552 - INFO - Pipeline finalizado com sucesso
+2026-05-16 17:52:25,553 - INFO - Iniciando pipeline
+2026-05-16 17:52:25,553 - INFO - Extraindo selic
+2026-05-16 17:52:26,085 - INFO - Transformando selic
+2026-05-16 17:52:26,105 - INFO - Extraindo ipca
+2026-05-16 17:52:26,610 - INFO - Transformando ipca
+2026-05-16 17:52:26,613 - INFO - Extraindo dolar
+2026-05-16 17:52:27,119 - INFO - Transformando dolar
+2026-05-16 17:52:27,125 - INFO - Carregando dados no banco
+2026-05-16 17:52:27,172 - INFO - Pipeline finalizado com sucesso
+2026-05-16 17:53:27,173 - INFO - Iniciando pipeline
+2026-05-16 17:53:27,173 - INFO - Extraindo selic
+2026-05-16 17:53:27,662 - INFO - Transformando selic
+2026-05-16 17:53:27,669 - INFO - Extraindo ipca
+2026-05-16 17:53:28,087 - INFO - Transformando ipca
+2026-05-16 17:53:28,089 - INFO - Extraindo dolar
+2026-05-16 17:53:28,540 - INFO - Transformando dolar
+2026-05-16 17:53:28,547 - INFO - Carregando dados no banco
+2026-05-16 17:53:28,593 - INFO - Pipeline finalizado com sucesso
