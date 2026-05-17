@@ -3,11 +3,11 @@ import pandas as pd
 
 
 def load_data(df):
-    user = "postgres"
-    password = "visor4532"
+    user = "USUARIO_DO_BANCO"
+    password = "SUA_SENHA_AQUI"
     host = "localhost"
     port = "5432"
-    database = "etl_bacen"
+    database = "SEU_DATABASE_POSTGRESQL"
 
     engine = create_engine(
         f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{database}"
